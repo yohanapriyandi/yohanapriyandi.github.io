@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-03-27 10:13:02 +0700
-categories: jekyll update
+title:  "Selamat Datang Di Blog Saya"
+date:   2019-03-27 10:33:02 +0700
+categories: uncategories
 ---
 Selamat datang di blog pribadi saya, blog ini dibuat menggunakan [Jekyll][jekyll_web], sebagai fondasi utama dan dihosting di [github][github_web] dan ini free serta open source. Karena berbentuk static page maka kita tidak akan dibingungkan dengan database dan hal hal lainnya apabila kita menggunakan pihak lain dalam membuat blog.
 
