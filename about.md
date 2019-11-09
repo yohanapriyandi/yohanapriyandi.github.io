@@ -17,7 +17,6 @@ Blog ini saya bangun menggunakan jekyll, platform static web dan dihosting di gi
 
 [jekyllrb.com](https://jekyllrb.com/)
 anda juga bisa mendapatkan source codenya di link gitHub di bawah ini:
-[jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
 Teman-teman bisa menghubungi saya melalui email di yohanapriyandi89@gmail.com, terima kasih sudah berkenan mampir di blog sederhana saya ini.
