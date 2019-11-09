@@ -16,7 +16,9 @@ tujuan saya adalah untuk mengembangkan aplikasi android menggunakan bahasa kotli
 Blog ini saya bangun menggunakan jekyll, platform static web dan dihosting di github, untuk mengetahui lebih tentang jekyll silahkan merujuk ke link berikut:
 
 [jekyllrb.com](https://jekyllrb.com/)
-anda juga bisa mendapatkan source codenya di link gitHub di bawah ini:
+
+anda juga bisa mendapatkan source codenya di link gitHub:
+
 [jekyll](https://github.com/jekyll/jekyll)
 
 Teman-teman bisa menghubungi saya melalui email di yohanapriyandi89@gmail.com, terima kasih sudah berkenan mampir di blog sederhana saya ini.
