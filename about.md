@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi...!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+selamat datang di blog pribadi saya
 
-You can find the source code for Jekyll at GitHub:
+Perkenalkan nama saya Yohan Apriyandi biasa dipanggil Yohan, saya seorang fullstack developer 
+dan akhir kahir ini sering menggunakan laravel sebagai backend untuk aplikasi web dan vue.js(javascript framework)
+saya senang dengan dunia technology terlebih web dan mobile, oh dan sekarang saya sedang mempelajari bahasa pemrograman Kotlin
+tujuan saya adalah untuk mengembangkan aplikasi android menggunakan bahasa kotlin ini.
+
+Blog ini saya bangun menggunakan jekyll, platform static web dan dihosting di github, untuk mengetahui lebih tentang jekyll silahkan merujuk ke link berikut:
+
+[jekyllrb.com](https://jekyllrb.com/)
+anda juga bisa mendapatkan source codenya di link gitHub di bawah ini:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+Teman-teman bisa menghubungi saya melalui email di yohanapriyandi89@gmail.com, terima kasih sudah berkenan mampir di blog sederhana saya ini.
 
-[jekyll-organization]: https://github.com/jekyll
+Semoga bermanfaat
+
+
+Salam coding...
+
+
+
