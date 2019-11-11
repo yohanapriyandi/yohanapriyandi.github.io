@@ -5,7 +5,7 @@ date:   2019-11-11 15:31:02 +0700
 categories: Laravel
 ---
 Hai selamat siang, sambil menunggu proses chekcout ke repo yang lumayan besar saya coba selingi dengan menulis
-pekerjaan yang saya lakukan sebagai memori, jaga-jaga kalau lupa tinggal buka blog pribadi [ini]:https://yohanapriyandi.github.io
+pekerjaan yang saya lakukan sebagai memori, jaga-jaga kalau lupa tinggal buka blog pribadi [ini][my-blog].
 
 Siang ini saya akan memeberi tahu teman teman coders beberapa perintah artisan yang ada di laravel yang berguna untuk membersihkan cache, langsung aja yah:
 
@@ -31,3 +31,4 @@ Sumber: [laravel.com][laravel-sites]
 
 
 [laravel-sites]:https://laravel.com/
+[my-blog]:https://yohanapriyandi.github.io
