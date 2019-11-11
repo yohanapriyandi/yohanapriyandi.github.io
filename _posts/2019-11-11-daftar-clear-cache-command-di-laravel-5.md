@@ -26,5 +26,8 @@ Nah diatas merupakan perintah perintah yang sering saya gunakan untuk mengelola 
 
 salam coding...
 
-Sumber:
-[laravel]:https://laravel.com/
+Sumber: [laravel.com][laravel-sites]
+
+
+
+[laravel-sites]:https://laravel.com/
